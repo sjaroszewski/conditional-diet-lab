@@ -37,7 +37,7 @@ def new_diet(donut,cookie)
     if donut > 0 && cookie > 0
      "Get back on your diet!"
     else
-     "Good job, Homer!"
+     "Good job!"
     end
 end
 
